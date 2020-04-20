@@ -1,0 +1,1 @@
+# TwitchLoyaltyCollector-Tampermonkey
